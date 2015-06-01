@@ -8,6 +8,8 @@
 
 @import XCTest;
 
+#include <sent/config.h>
+
 @interface Tests : XCTestCase
 
 @end

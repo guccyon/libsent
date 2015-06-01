@@ -1,0 +1,14 @@
+PODS:
+  - libsent (4.3.1)
+
+DEPENDENCIES:
+  - libsent (from `../`)
+
+EXTERNAL SOURCES:
+  libsent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  libsent: 0c94a3deabdd0433ec162d2d8cb547295fb17ecd
+
+COCOAPODS: 0.37.2

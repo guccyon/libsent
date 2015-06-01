@@ -4,6 +4,4 @@ use_frameworks!
 
 target 'libsent_Tests', :exclusive => true do
   pod "libsent", :path => "../"
-
-  
 end
